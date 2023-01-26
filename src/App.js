@@ -1,5 +1,4 @@
 import "./App.css";
-import { SideBar } from "./components/SideBar";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Home from "./components/Home";
 
