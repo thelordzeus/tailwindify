@@ -1,1 +1,1 @@
-A tailwind CSS Component library which strictly follows the rule of COPY AND PASTE method. Get the firect code, copy and paste it where every you want without installing any package or framework. 
+A tailwind CSS Component library which strictly follows the rule of COPY AND PASTE method. Get the direct code, copy and paste it where ever you want without installing any package or framework. simple fast and easy to use. 
