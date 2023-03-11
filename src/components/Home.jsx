@@ -8,6 +8,7 @@ import { RiFootprintFill, RiSideBarFill } from "react-icons/ri";
 import { AiOutlineHome } from "react-icons/ai";
 import { Link } from "react-router-dom";
 
+
 const Home = () => {
   const menus = [
     { name: "Home Page", link: "/", icon: AiOutlineHome },
@@ -21,7 +22,7 @@ const Home = () => {
   ];
   const [open, setOpen] = useState(true);
   return (
-    <section className="flex gap-6">
+    <section className="flex  h-screen ">
       <div
         className={`bg-slate-800 min-h-screen ${
           open ? "w-72" : "w-16"
@@ -65,7 +66,7 @@ const Home = () => {
           ))}
         </div>
       </div>
-      <div className="m-3 text-xl text-white font-semibold">Tailwindiify</div>
+      {/* add other components here  */}
     </section>
   );
 };
